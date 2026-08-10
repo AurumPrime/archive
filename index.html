@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AurumPrime | The Archive</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;700&family=Inter:wght@300;400;800&display=swap" rel="stylesheet">
+    <style>
+        body { background-color: #050505; color: #a0a0a0; font-family: 'Inter', sans-serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+        .gold-text { color: #FFD700; }
+        .glass { background: rgba(255, 255, 255, 0.02); backdrop-filter: blur(12px); border: 1px solid rgba(255, 215, 0, 0.1); }
+        .gradient-text { background: linear-gradient(to bottom right, #fff, #FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    </style>
+</head>
+<body class="selection:bg-yellow-500 selection:text-black">
+    <nav class="fixed top-0 w-full z-50 px-8 py-6 flex justify-between items-center glass border-b border-white/5">
+        <div class="mono font-bold text-lg tracking-tighter gold-text">AURUM_PRIME // ARCHIVE</div>
+        <div class="text-[10px] uppercase tracking-[0.2em] font-semibold"><a href="https://github.com/AurumPrime/archive">GitHub Repo</a></div>
+    </nav>
+    <main class="relative pt-48 pb-20 px-8 max-w-5xl mx-auto text-center">
+        <h1 class="text-7xl md:text-9xl font-black mb-8 tracking-tighter leading-none gradient-text uppercase">The Archive</h1>
+        <p class="text-lg md:text-xl font-light max-w-xl mx-auto leading-relaxed text-gray-500 mb-20">Personal journal documenting the daily pursuit of algorithmic mastery and mathematical excellence.</p>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="glass p-8 rounded-xl"><h3 class="mono gold-text mb-2">15 HOURS</h3><p class="text-xs uppercase tracking-widest">Daily Regimen</p></div>
+            <div class="glass p-8 rounded-xl"><h3 class="mono gold-text mb-2">IOI 2027</h3><p class="text-xs uppercase tracking-widest">Target Gold</p></div>
+            <div class="glass p-8 rounded-xl"><h3 class="mono gold-text mb-2">EXCELLENCE</h3><p class="text-xs uppercase tracking-widest">SM Mastery</p></div>
+        </div>
+    </main>
+</body>
+</html>
