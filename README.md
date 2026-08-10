@@ -1,65 +1,45 @@
-# 🥇 Abderrahmane Fakraoui (AurumPrime)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AurumPrime/AurumPrime/main/banner.png" alt="AurumPrime Banner" width="100%">
-</p>
+# 🥇 The Archive: AurumPrime's Command Center
 
-<p align="center">
-  <b>Competitive Programmer | Aspiring MIT Engineer | Mathematics Enthusiast</b>
-</p>
+> "The master has failed more times than the beginner has even tried."
 
-<p align="center">
-  <a href="https://codeforces.com/profile/AurumPrime"><img src="https://img.shields.io/badge/Codeforces-AurumPrime-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" alt="Codeforces"></a>
-  <a href="https://atcoder.jp/users/AurumPrime"><img src="https://img.shields.io/badge/AtCoder-AurumPrime-white?style=for-the-badge&logo=atcoder&logoColor=black" alt="AtCoder"></a>
-  <a href="https://github.com/AurumPrime"><img src="https://img.shields.io/badge/GitHub-AurumPrime-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
-</p>
+This repository is the definitive documentation of my 1.5-year journey to **IOI Gold** and **MIT**. It tracks every hour of my 15-hour daily regimen, every algorithmic problem solved, and every mathematical proof mastered.
 
 ---
 
-### 🧠 The Mission: Road to MIT 2028
-> *"I don't trade my future empire for temporary pleasure."*
+### 📂 Repository Structure
 
-I am a 17-year-old developer from **Casablanca, Morocco**, currently in **1ère Bac Sciences Mathématiques**. My life is a 1.5-year "Monk Mode" sprint towards the **International Olympiad in Informatics (IOI) 2027** and a seat at **MIT**.
+- **[📅 Journal](./journal/)**: Daily verifiable progress records (Monk Mode Logs).
+- **[💻 Competitive Programming](./competitive-programming/)**:
+  - `cses/`: Solutions to the 400 problems.
+  - `codeforces/`: Contest logs and upsolving.
+  - `atcoder/`: Weekly contest participation.
+  - `templates/`: Optimized C++ templates.
+  - `notes/`: Algorithmic analysis.
+- **[📚 Academics](./academics/)**:
+  - `1bac-sm/`: Analysis, Algebra, and Physics logs.
+  - `2bac-sm/` (Future): Advanced curriculum preparation.
+- **[🎓 College Prep](./college-prep/)**:
+  - `sat-toefl/`: Practice logs and score tracking.
+  - `essays/`: Drafts for MIT Supplemental Essays.
+- **[🤸 Extracurriculars](./extracurriculars/)**:
+  - `calisthenics/`: Workout logs and physical development.
 
-#### 🎯 Strategic Objectives
-| Milestone | Target | Progress |
+---
+
+### 🧘‍♂️ Monk Mode Tracker
+| Category | Daily Target | Total Commitment |
 | :--- | :--- | :--- |
-| **IOI 2027** | Gold Medal 🥇 | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
-| **Codeforces** | Grandmaster (2400+) | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
-| **GPA** | 19.5/20 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 95% |
-| **SAT** | 1580+ | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80% |
+| **Competitive Programming** | 7 Hours | 3,500+ Hours |
+| **Mathematics & Physics** | 4 Hours | 1,500+ Hours |
+| **SAT & College Prep** | 2 Hours | Targeting 1580+ |
+| **Physical Discipline** | 2 Hours | Calisthenics Mastery |
 
 ---
 
-### 📊 Live Performance Metrics
-<p align="left">
-  <img src="https://img.shields.io/badge/Rating-1255-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" alt="Rating">
-  <img src="https://img.shields.io/badge/Rank-Pupil-white?style=for-the-badge&logo=codeforces&logoColor=black" alt="Rank">
-  <img src="https://img.shields.io/badge/Solved-19-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" alt="Solved">
-  <img src="https://img.shields.io/badge/Streak-2_Days-white?style=for-the-badge&logo=codeforces&logoColor=black" alt="Streak">
-</p>
-
-> **Note:** Stats are updated live via GitHub Actions. (Solved count reflects unique problems with OK verdict on CF).
+### 🚀 Documentation Workflow
+1. **Daily Log:** Create a new file in `journal/` (e.g., `2026-08-11.md`).
+2. **CP Solutions:** Add solutions to the respective platform folder.
+3. **Math Proofs:** Document key theorems in the `academics/1bac-sm/` folder.
 
 ---
-
-### 🛠️ Technical Arsenal
-- **Languages:** `C++20` (Primary), `Python 3.12`, `LaTeX`
-- **Focus:** `Advanced Data Structures`, `Graph Theory`, `Dynamic Programming`, `Number Theory`
-- **Current Projects:** 
-  - **JARVIS:** An AI-driven OS automation layer for high-performance workflows.
-  - **EDITH:** AR-based algorithmic assistant for real-time problem visualization.
-
----
-
-### 📂 [The Archive](https://github.com/AurumPrime/archive)
-The central command center of my 5,000-hour journey. It contains every proof, every contest log, and every line of code written during this grind.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AurumPrime&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FFD700&text_color=e5e5e5&icon_color=FFD700" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <i>"Wir sind die Helden unserer eigenen Geschichte."</i>
-</p>
+*"Consistency is the only currency that matters."*
