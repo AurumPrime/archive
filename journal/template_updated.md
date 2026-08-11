@@ -1,0 +1,47 @@
+# 📓 Daily Log: [YYYY-MM-DD]
+
+## 🧘‍♂️ Monk Mode Status
+- **Focus Level:** [X/10]
+- **Deep Work Hours:** [X] Hours / 15 Hours Target
+
+---
+
+## 💻 Competitive Programming (CP)
+- **Topic / Resource:** [e.g., CPH Chapter 2 / CSES Problem Set / Dynamic Programming]
+- **Problems Solved:**
+  - [ ] [Problem Name / Link](URL) — *Difficulty: [Rating]*
+  - [ ] [Problem Name / Link](URL) — *Difficulty: [Rating]*
+- **Key Technical Insight:**
+  > [One algorithmic trick, complexity optimization, or key pattern learned today]
+
+---
+
+## 📐 1Bac SM Prep (Math & Physics)
+- **Subject & Topic:** [e.g., Logic & Quantifiers / Complex Numbers / Mechanics]
+- **Source / Tutor:** [e.g., Prof Fati / Textbook proofs]
+- **Progress:** [Concepts understood / Proofs solved]
+- **Math/Physics Insight:**
+  > [Key proof technique or mathematical identity mastered today]
+
+---
+
+## 🗣️ English Immersion & Speaking
+- **Daily Focus:** [e.g., Self-Talk while coding / Listening to Tech Podcast / Technical Reading]
+- **Action Done:** [Summarize what you listened to, read, or spoke out loud]
+- **New Vocab / Phrases Learned:**
+  - *Word 1*: Meaning / Example sentence
+  - *Word 2*: Meaning / Example sentence
+
+---
+
+## 🤸 Physical Discipline (Calisthenics)
+- **Workout Split:** [e.g., Upper Body Push/Pull / Core & Statics]
+- **Reps & Sets:**
+  - [Exercise 1]: [Sets x Reps / Added Weight]
+  - [Exercise 2]: [Sets x Reps / Hold Time]
+- **Progress Note:** [PR reached or form improvement]
+
+---
+
+## 💭 Daily Reflection
+> "[One sentence on today's discipline, friction overcome, or continuous growth.]"
