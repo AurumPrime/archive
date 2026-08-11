@@ -2,7 +2,7 @@
 
 > "The master has failed more times than the beginner has even tried."
 
-This repository is the definitive documentation of my 1.5-year journey to **IOI Gold** and **MIT**. It tracks every hour of my 15-hour daily regimen, every algorithmic problem solved, and every mathematical proof mastered.
+This repository is the definitive documentation of my 1.5-year journey to **IOI Gold** and **MIT**. It tracks every hour of my 4-8 hour daily Deep Work regimen, every algorithmic problem solved, and every mathematical proof mastered.
 
 ---
 
