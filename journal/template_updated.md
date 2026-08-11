@@ -2,7 +2,7 @@
 
 ## 🧘‍♂️ Monk Mode Status
 - **Focus Level:** [X/10]
-- **Deep Work Hours:** [X] Hours / 15 Hours Target
+- **Deep Work Hours:** [X] Hours / 8 Hours Target
 
 ---
 
