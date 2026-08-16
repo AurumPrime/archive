@@ -1,3 +1,9 @@
+/**
+ * Author: AurumPrime (Abderrahmane Fakraoui)
+ * Contest: AtCoder Regular Contest 227 (Unrated)
+ * Problem: A - [ Fermat Point of Binary Strings ]
+ * Date: 2026-08-16
+ */
 #include <iostream>
 #include <string>
 #include <vector>
