@@ -40,7 +40,7 @@ void backtrack(int row) {
     }
 }
 
-int main() {
+int main() { 
     n = 4;
     col_used.assign(n, 0);
     diag1_used.assign(2 * n, 0);
