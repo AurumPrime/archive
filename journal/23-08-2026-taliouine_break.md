@@ -1,6 +1,6 @@
 # Taliouine Break: Recharging and Resetting
 
-**Date Range:** August 23, 2026 – September 02, 2026
+**Date Range:** August 23, 2026 – September 03, 2026
 
 **Location:** Taliouine, Morocco
 
